@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="add_item">Agregar</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="item_name">Nombre del artículo</string>
+    <string name="delete">Eliminar</string>
+    <string name="add_item_title">Agregar nuevo artículo</string>
+</resources>
